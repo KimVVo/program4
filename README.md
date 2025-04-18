@@ -22,8 +22,8 @@ This simulation helps visualize how different algorithms perform given the same 
 
 ## 🛠️ How To Run
 
-g++ -o program4 program.cpp
-./program4
+- g++ -o program4 program.cpp
+- ./program4
 
 ### Input
 
